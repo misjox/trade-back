@@ -1,0 +1,28 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="34" width="34" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="16" rx="16" id="svg_1" cy="15.848092" cx="16" stroke-width="0" stroke="#000" fill="#fff"/>
+  <defs>
+   <style>.cls-1{fill:#3ab83a;}.cls-2{fill:#0b8311;}.cls-3{fill:#146714;}</style>
+  </defs>
+
+  <metadata transform="matrix(0.07053745295935698,0,0,0.07053745295935698,0,0) " id="svg_88">image/svg+xmlEthereum Classic LogoEthereum ClassicEthereum ClassicEthereum ClassicEthereum Classic Logo</metadata>
+  <g stroke="null" id="svg_100">
+   <path stroke="null" id="svg_94" d="m15.99762,3.280077l-0.170553,0.579695l0,16.821421l0.170553,0.170247l7.808315,-4.615475l-7.808315,-12.955889z" fill="#343434"/>
+   <path stroke="null" id="svg_95" d="m15.997681,3.280077l-7.808315,12.955889l7.808315,4.615536l0,-8.164614l0,-9.40681z" fill="#8C8C8C"/>
+   <path stroke="null" id="svg_96" d="m15.99762,22.329908l-0.096107,0.11716l0,5.99216l0.096107,0.280695l7.813014,-11.00317l-7.813014,4.613156z" fill="#3C3C3B"/>
+   <path stroke="null" id="svg_97" d="m15.997681,28.719861l0,-6.390075l-7.808315,-4.613156l7.808315,11.003231z" fill="#8C8C8C"/>
+   <path stroke="null" id="svg_98" d="m15.99762,20.851441l7.808193,-4.615414l-7.808193,-3.549079l0,8.164492z" fill="#141414"/>
+   <path stroke="null" id="svg_99" d="m8.189365,16.235966l7.808193,4.615475l0,-8.164553l-7.808193,3.549079z" fill="#393939"/>
+  </g>
+ </g>
+</svg>

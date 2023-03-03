@@ -1,0 +1,34 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="34" width="34" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="16" rx="16" id="svg_17" cy="16" cx="16" stroke-width="0" stroke="#000" fill="#fff"/>
+  <g id="svg_8">
+   <g id="svg_4" transform="matrix(0.0003536178047830203,0,0,0.0003536178047830203,0.06530612743630693,0.012659520241164346) " fill-rule="nonzero">
+    <path id="svg_5" fill="#384182" d="m89,45316.290625l-89,63.9l56.5,-260l32.5,196.1zm1.8,-0.6l54.2,0.7l-86.4,-195.2l32.2,194.5zm59.3,-4.3l41.5,-153.8l-15.7,-19.2l-25.8,173zm-20,-241.1l-68.3,46l99.8,-32.3l-31.5,-13.7zm-8.6,0l-42.4,1.4l-6.2,17.7l48.6,-19.1z"/>
+    <path id="svg_6" fill="#f79534" d="m172.9,45132.490625l-109.3,-15l98.5,-31l10.8,46zm-25.9,-57.8l6,-16.3l-31.5,-13.7l25.5,30zm9.1,-17.9l7.1,25.6l42,-11.1l-49.1,-14.5z"/>
+    <path id="svg_7" fill="#f0513a" d="m147.4,45315.390625l-87.6,-196l114.2,16l-26.6,180zm-20.6,-245.1l-54,21.1l-13,24l67,-45.1zm-33.5,-16l-13.5,14.9l44.8,-1.1l-31.3,-13.8zm23.6,-11.6l-21.4,9.9l48.8,21.5l-27.4,-31.4zm24.4,-1.3l-23,0l35.6,13.8l-12.6,-13.8zm13.3,18.3l-5.5,16.4l11,5.3l-5.5,-21.7z"/>
+   </g>
+  </g>
+  <defs>
+   <style>.cls-1{fill:#ff060a;}</style>
+  </defs>
+  <defs>
+   <style>.cls-1{fill:#ff060a;}</style>
+  </defs>
+  <style transform="matrix(0.0011289629235668036,0,0,0.0011289629235668036,0,0) " type="text/css">.st0{fill:#262729;}
+	.st1{fill:#EB0029;}</style>
+  <g stroke="null" id="svg_51">
+   <ellipse ry="16" rx="16" id="svg_52" cy="16" cx="16" stroke-opacity="null" stroke-width="null" stroke="null" fill="#ffffff"/>
+   <path stroke="null" id="svg_50" d="m23.305739,9.415888l-16.871301,-3.103445l8.878599,22.338073l12.368923,-15.071471l-4.376221,-4.163157zm-0.269133,1.368095l2.581999,2.453039l-7.059145,1.278384l4.477146,-3.731423zm-6.010646,3.476307l-7.440417,-6.170444l12.158662,2.237171l-4.718245,3.933273zm-0.53266,1.093354l-1.2111,10.028023l-6.540503,-16.461994l7.751603,6.433971zm1.121389,0.529856l7.816083,-1.415754l-8.962703,10.922331l1.14662,-9.506577z" class="st1"/>
+  </g>
+ </g>
+</svg>
