@@ -24,24 +24,30 @@ const Coins = {
       required: true,
     },
     {
+      name: "procent",
+      type: "text",
+      required: true,
+      defaultValue: "0.02",
+    },
+    {
       name: "image",
       type: "upload",
       relationTo: "media",
       required: true,
     },
     {
-      name: 'typeCoin',
-      type: 'select',
+      name: "typeCoin",
+      type: "select",
       options: [
         {
-          label: 'STABLE',
-          value: 'STABLE'
+          label: "STABLE",
+          value: "STABLE",
         },
         {
-          label: 'CRYPTO',
-          value: 'CRYPTO'
-        }
-      ]
+          label: "CRYPTO",
+          value: "CRYPTO",
+        },
+      ],
     },
     {
       name: "coins",
@@ -59,18 +65,18 @@ const Coins = {
           required: true,
         },
         {
-          name: 'typeCoin',
-          type: 'select',
+          name: "typeCoin",
+          type: "select",
           options: [
             {
-              label: 'STABLE',
-              value: 'STABLE'
+              label: "STABLE",
+              value: "STABLE",
             },
             {
-              label: 'CRYPTO',
-              value: 'CRYPTO'
-            }
-          ]
+              label: "CRYPTO",
+              value: "CRYPTO",
+            },
+          ],
         },
         {
           name: "image",
@@ -78,7 +84,6 @@ const Coins = {
           relationTo: "media",
           required: true,
         },
-
       ],
     },
   ],
